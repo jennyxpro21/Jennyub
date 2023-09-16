@@ -1,9 +1,9 @@
 {
-    "name": "◉ 𝐎𝐕𝐄𝐑 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 ◉ 𝕌𝕊𝔼ℝ𝔹𝕆𝕋",
-    "logo": "https://telegra.ph/file/89f23433043a4bfa255c3.jpg",
+    "name": "◉ 𝐈𝐁 𝐔𝐒𝐄𝐑𝐁𝐎𝐓 ◉ 𝕌𝕊𝔼ℝ𝔹𝕆𝕋",
+    "logo": "https://telegra.ph//file/3ada15edb25d9c0b1d284.jpg",
     "description": "The first Telegram Userbot with multi Clients for Spamming or Mass.",
     "keywords": ["pyrogram", "userbot"],
-    "repository": "https://github.com/itszshivam/OP-Userbot2",
+    "repository": "https://github.com/mrtosumemon/IB-Userbot",
   "stack": "container",
     "env": {
         "STRING_SESSION1": {
