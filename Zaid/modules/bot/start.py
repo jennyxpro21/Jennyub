@@ -16,10 +16,10 @@ PHONE_NUMBER_TEXT = (
 async def hello(client: app, message):
     buttons = [
            [
-                InlineKeyboardButton("🥀 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 🥀", url="t.me/itsz_shivam"),
+                InlineKeyboardButton("🥀 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 🥀", url="t.me/your_godfather_xd"),
             ],
             [
-                InlineKeyboardButton("✨ 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗚𝗥𝗢𝗨𝗣 ✨", url="t.me/fun_here"),
+                InlineKeyboardButton("✨ 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗚𝗥𝗢𝗨𝗣 ✨", url="t.me/THE_INCRICIBLE"),
             ],
             ]
     reply_markup = InlineKeyboardMarkup(buttons)
