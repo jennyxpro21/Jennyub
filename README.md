@@ -1,19 +1,19 @@
 ### 🌷𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒🌷
 
 <!--
-**itszshivam/itszshivam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mrtosumemon/mrtosumemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/itszshivam/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/mrtosumemon/count.svg" />
 </p>
 
-<p align="center">◉ 𝐎𝐕𝐄𝐑 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 ◉ 𝕌𝕊𝔼ℝ𝔹𝕆𝕋 ✨ </p>
+<p align="center">◉ 𝐆𝐎𝐃𝐅𝐀𝐓𝐇𝐄𝐑 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 ◉ 𝕌𝕊𝔼ℝ𝔹𝕆𝕋 ✨ </p>
 
 - The First Telegram Userbot Project With Multi Clients Based On PyroGram
 
-<p align="center"><a href="https://t.me/fun_here"><img src="https://telegra.ph/file/89f23433043a4bfa255c3.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/THE_INCRICIBLE"><img src="https://telegra.ph//file/3ada15edb25d9c0b1d284.jpg" width="300"></a></p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
 
@@ -35,9 +35,9 @@
 
 ᴛᴏ ʙᴇ ꜱᴀꜰᴇ! ꜰɪʀꜱᴛʟʏ ꜰᴏʀᴋ ᴛʜɪꜱ ʀᴇᴘᴏ ᴀɴᴅ ᴛʜᴇɴ ᴘʀᴇꜱꜱ ᴅᴇᴘʟᴏʏ ʙᴜᴛᴛᴏɴ ꜰʀᴏᴍ ᴛʜᴇ ꜰᴏʀᴋᴇᴅ ʀᴇᴘᴏ.😜 
 
-[ꜰᴏʀᴋᴇᴅ ᴅᴇᴘʟᴏʏ ɪꜱ ʜɪɢʜʟʏ ʀᴇᴄᴏᴍᴍᴇɴᴅᴇᴅ ʜᴇʀᴇ](https://telegra.ph/file/89f23433043a4bfa255c3.jpg)
+[ꜰᴏʀᴋᴇᴅ ᴅᴇᴘʟᴏʏ ɪꜱ ʜɪɢʜʟʏ ʀᴇᴄᴏᴍᴍᴇɴᴅᴇᴅ ʜᴇʀᴇ](https://telegra.ph//file/3ada15edb25d9c0b1d284.jpg)
 
-<p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/itszshivam/OP-USERBOT2"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/mrtosumemon/IB-USERBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ## Features 
 
@@ -71,5 +71,5 @@ and you ended up in a Finale Battle with Telegram and at the end
 
 <p align="center">𝐒𝐮𝐩𝐩𝐨𝐫𝐭 / 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ----> </p>
 
-<p align="center"><a href="https://t.me/fun_here"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-𝐒𝐮𝐩𝐩𝐨𝐫𝐭-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
-<p align="center"><a href="https://t.me/about_skshivam"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-𝐔𝐩𝐝𝐚𝐭𝐞𝐬-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
+<p align="center"><a href="https://t.me/Tje_INCRICIBLE"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-𝐒𝐮𝐩𝐩𝐨𝐫𝐭-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
+<p align="center"><a href="https://t.me/INCRICIBLE"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-𝐔𝐩𝐝𝐚𝐭𝐞𝐬-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
