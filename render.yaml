@@ -5,7 +5,7 @@ services:
     env: python
     buildCommand: pip install -U -r requirements.txt
     startCommand: python3 server.py & python3 -m Zaid
-    repo: https://github.com/mrtosumemon/IB-USERBOT     
+    repo: https://github.com/jennyxpro21/Jennyub    
     branch: master
     envVars:
       - key: SUDO_USERS 
