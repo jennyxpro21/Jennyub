@@ -13,7 +13,7 @@
 
 - The First Telegram Userbot Project With Multi Clients Based On PyroGram
 
-<p align="center"><a href="https://t.me/THE_INCRICIBLE"><img src="https://telegra.ph//file/3ada15edb25d9c0b1d284.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/THE_INCRICIBLE"><img src="https://graph.org/file/cea26e48787ae6e49ab73.jpg" width="300"></a></p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
 
@@ -35,9 +35,9 @@
 
 ᴛᴏ ʙᴇ ꜱᴀꜰᴇ! ꜰɪʀꜱᴛʟʏ ꜰᴏʀᴋ ᴛʜɪꜱ ʀᴇᴘᴏ ᴀɴᴅ ᴛʜᴇɴ ᴘʀᴇꜱꜱ ᴅᴇᴘʟᴏʏ ʙᴜᴛᴛᴏɴ ꜰʀᴏᴍ ᴛʜᴇ ꜰᴏʀᴋᴇᴅ ʀᴇᴘᴏ.😜 
 
-[ꜰᴏʀᴋᴇᴅ ᴅᴇᴘʟᴏʏ ɪꜱ ʜɪɢʜʟʏ ʀᴇᴄᴏᴍᴍᴇɴᴅᴇᴅ ʜᴇʀᴇ](https://telegra.ph//file/3ada15edb25d9c0b1d284.jpg)
+[ꜰᴏʀᴋᴇᴅ ᴅᴇᴘʟᴏʏ ɪꜱ ʜɪɢʜʟʏ ʀᴇᴄᴏᴍᴍᴇɴᴅᴇᴅ ʜᴇʀᴇ](https://graph.org/file/cea26e48787ae6e49ab73.jpg)
 
-<p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/mrtosumemon/IB_USERBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/jennyxpro21/Jennyub"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ## Features 
 
