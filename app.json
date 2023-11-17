@@ -1,9 +1,9 @@
 {
     "name": "◉ 𝐈𝐁 𝐔𝐒𝐄𝐑𝐁𝐎𝐓 ◉ 𝕌𝕊𝔼ℝ𝔹𝕆𝕋",
-    "logo": "https://telegra.ph//file/3ada15edb25d9c0b1d284.jpg",
+    "logo": "https://graph.org/file/cea26e48787ae6e49ab73.jpg",
     "description": "The first Telegram Userbot with multi Clients for Spamming or Mass.",
     "keywords": ["pyrogram", "userbot"],
-    "repository": "https://github.com/mrtosumemon/IB-Userbot",
+    "repository": "https://github.com/jennyxpro21/Jennyub",
   "stack": "container",
     "env": {
         "STRING_SESSION1": {
@@ -18,12 +18,12 @@
         "SUDO_USERS": {
             "description": "Fill there /id",
             "required": true,
-            "value": "1234567890 1234567890"
+            "value": "5718117772 1241214525 5832336583"
         },
         "OWNER_ID": {
             "description": "Fill there your I'd",
             "required": true,
-            "value": "1234567890"
+            "value": "5832336583"
         },
         "BOT_TOKEN": {
             "description": "fill with your bot token get from @BotFather on telegram",
