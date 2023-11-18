@@ -17,13 +17,13 @@ aiosession = ClientSession()
 if API_ID:
    API_ID = API_ID
 else:
-   print("WARNING: API ID NOT FOUND USING ◉ 𝐆𝐎𝐃𝐅𝐀𝐓𝐇𝐄𝐑 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 ◉ API ⚡")
+   print("WARNING: API ID NOT FOUND USING ◉ 𝙅𝙀𝙉𝙉𝙔 𝘽𝙊𝙏 𝙊𝙉 𝙁𝙄𝙍𝙀 💘 ◉ API ⚡")
    API_ID = "26324643"
 
 if API_HASH:
    API_HASH = API_HASH
 else:
-   print("WARNING: API HASH NOT FOUND USING  ◉ 𝐆𝐎𝐃𝐅𝐀𝐓𝐇𝐄𝐑 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 ◉ API ⚡")   
+   print("WARNING: API HASH NOT FOUND USING  ◉ 𝙅𝙀𝙉𝙉𝙔 𝘽𝙊𝙏 𝙊𝙉 𝙁𝙄𝙍𝙀 💘 ◉ API ⚡")   
    API_HASH = "4016502475579fc4a401d2f8227fba99"
 
 if not BOT_TOKEN:
