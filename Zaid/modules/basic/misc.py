@@ -11,20 +11,20 @@ from Zaid.helper.PyroHelpers import ReplyCheck
 from Zaid.modules.help import add_command_help
 from Zaid.modules.bot.inline import get_readable_time
 
-alive_logo = ALIVE_PIC or "https://telegra.ph//file/3ada15edb25d9c0b1d284.jpg"
+alive_logo = ALIVE_PIC or "https://graph.org/file/cea26e48787ae6e49ab73.jpg"
 
 if ALIVE_TEXT:
    txt = ALIVE_TEXT
 else:
     txt = (
-        f"** ◉ 𝐆𝐎𝐃𝐅𝐀𝐓𝐇𝐄𝐑 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 ◉**\n\n"
+        f"** ◉ 𝙅𝙀𝙉𝙉𝙔 𝘽𝙊𝙏 𝙊𝙉 𝙁𝙄𝙍𝙀 💘 ◉**\n\n"
         f"❏ **νєяѕισи**: `2.1`\n"
         f"├• **υρтιмє**: `{str(datetime.now() - START_TIME).split('.')[0]}`\n"
         f"├• **ρутнσи**: `{python_version()}`\n"
         f"├• **ρуяσgяαм**: `{__version__}`\n"
-        f"├• **ѕυρρσят**: [Click](t.me/The_Incricible)\n"
-        f"├• **𝒹єνєℓσρєя**: [Click](t.me/Your_godfather_xd)\n"
-        f"└• **яєρσ**: [Click](https://t.me/The_Incricible/24)"        
+        f"├• **ѕυρρσят**: [Click](t.me/KWF_IND)\n"
+        f"├• **𝒹єνєℓσρєя**: [Click](t.me/LOL_Xpro)\n"
+        f"└• **яєρσ**: [Click](https://t.me/jenny_x_21)"        
     )
 
 @Client.on_message(
@@ -62,7 +62,7 @@ async def repo(bot: Client, message: Message):
 
 @Client.on_message(filters.command("creator", ".") & filters.me)
 async def creator(bot: Client, message: Message):
-    await message.edit("https://t.me/your_godfather_xd")
+    await message.edit("https://t.me/LOL_Xpro")
 
 
 @Client.on_message(filters.command(["uptime", "up"], ".") & filters.me)
